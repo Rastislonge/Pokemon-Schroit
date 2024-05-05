@@ -10253,7 +10253,7 @@ const struct Trainer gTrainers[] = {
     {
         .trainerClass = TRAINER_CLASS_RS_PROTAG,
         .encounterMusic_gender = F_TRAINER_FEMALE | TRAINER_ENCOUNTER_MUSIC_MALE,
-        .trainerPic = TRAINER_PIC_RS_MAY,
+        .trainerPic = TRAINER_PIC_YOYO,
         .trainerName = _("MAY"),
         .items = {},
         .doubleBattle = FALSE,

@@ -164,8 +164,8 @@ bool8 SetUpFieldMove_Cut(void)
         else
         {
             sCutSquareSide = CUT_NORMAL_SIDE;
-            sTileCountFromPlayer_X = 1;
-            sTileCountFromPlayer_Y = 1;
+            sTileCountFromPlayer_X = 3;
+            sTileCountFromPlayer_Y = 3;
         }
 
         for (i = 0; i < CUT_NORMAL_AREA; i++)

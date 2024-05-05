@@ -2024,7 +2024,7 @@ static const struct SpriteTemplate sTrainerBackSpriteTemplates[] =
         .affineAnims = gAffineAnims_BattleSpritePlayerSide,
         .callback = SpriteCB_BattleSpriteStartSlideLeft,
     },
-    [TRAINER_BACK_PIC_RUBY_SAPPHIRE_MAY] = {
+    [TRAINER_BACK_PIC_YOYO] = {
         .tileTag = TAG_NONE,
         .paletteTag = 0,
         .oam = &gOamData_BattleSpritePlayerSide,

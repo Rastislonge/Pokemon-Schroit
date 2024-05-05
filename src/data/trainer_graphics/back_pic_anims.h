@@ -123,7 +123,7 @@ const union AnimCmd *const *const gTrainerBackAnimsPtrTable[] =
     [TRAINER_BACK_PIC_RED] = sBackAnims_Red,
     [TRAINER_BACK_PIC_LEAF] = sBackAnims_Leaf,
     [TRAINER_BACK_PIC_RUBY_SAPPHIRE_BRENDAN] = sBackAnims_RubySapphireBrendan,
-    [TRAINER_BACK_PIC_RUBY_SAPPHIRE_MAY] = sBackAnims_RubySapphireMay,
+    [TRAINER_BACK_PIC_YOYO] = sBackAnims_RubySapphireMay,
     [TRAINER_BACK_PIC_WALLY] = sBackAnims_Wally,
     [TRAINER_BACK_PIC_STEVEN] = sBackAnims_Steven,
 };
